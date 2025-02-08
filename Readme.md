@@ -11,3 +11,5 @@ Characters present in the cartoon :
 ---
 ![Bablu Dablu](./Images/Screenshot%202025-02-08%20025913.png)
 
+[Here is more info about our project](https://github.com/Pratikshawatmode/Bablu-dablu-cartoon)
+
